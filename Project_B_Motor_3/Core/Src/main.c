@@ -24,6 +24,7 @@
 #include "B_Encoder.h"
 /* USER CODE END Includes */
 
+// 수정 확인이요
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 
